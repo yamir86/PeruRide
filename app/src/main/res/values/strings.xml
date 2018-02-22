@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PeruRideTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="tu_correo">Tu correo</string>
+
+    <string-array name="districts">
+        <item>Selecciona el distrito</item>
+        <item>Miraflores</item>
+        <item>Ancon</item>
+        <item>Ate</item>
+        <item>Barranco</item>
+        <item>Breña</item>
+        <item>Carabayllo</item>
+        <item>Chaclacayo</item>
+        <item>Chorrillos</item>
+        <item>Cieneguilla</item>
+        <item>Comas</item>
+        <item>El Agustino</item>
+        <item>Independencia</item>
+        <item>Jesús María</item>
+    </string-array>
+</resources>
